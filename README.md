@@ -10,6 +10,10 @@ The Calculator App is a simple calculator application built using React Native. 
 - Backspace to delete the last entered digit.
 - Support for large numbers with exponential notation.
 - Responsive design for different screen sizes.
+- 
+## Preview
+
+![photo_2023-08-06_13-07-40](https://github.com/kiranc8/splitbill-app/assets/93603167/30d54a08-6f13-4002-95e2-fd8b9a2c900b)
 
 ## Installation
 
